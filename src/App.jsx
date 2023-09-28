@@ -27,12 +27,12 @@ const siteProps = {
   name: "Jebin Shaju",
   title: "Computer Science Student",
   email: "jebinshaju4@gmail.com",
-  gitHub: "https://github.com/jebinshaju",
-  instagram: "https://www.instagram.com/jebinshaju_",
-  linkedIn: "https://www.linkedin.com/in/jebinshaju/",
-  medium: "https://medium.com/@jebinshaju4",
-  twitter: "https://twitter.com/_AKA_LIGHTNING_",
-  youTube: "https://youtube.com/@jebinshaju",
+  gitHub: "jebinshaju",
+  instagram: "jebinshaju_",
+  linkedIn: "jebinshaju/",
+  medium: "@jebinshaju4",
+  twitter: "_AKA_LIGHTNING_",
+  youTube: "@jebinshaju",
 };
 
 const primaryColor = "#4E567E";

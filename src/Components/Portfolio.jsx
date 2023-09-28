@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "SpendSence",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "an Expense Tracker App Technology Used: ReactJS and associated libraries and frameworks",
+    url: "https://github.com/Starline-Technologies/FSD-FINAL",
   },
   {
-    title: "Web Development for Beginners",
+    title: "SolveX",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a Python script that allows the user to draw a mathematical expression, and then convert it to text using OCR (Optical Character Recognition) to solve the expression.",
+    url: "https://github.com/Starline-Technologies/solveX",
   },
   {
-    title: "My Resume Site",
+    title: "Password manager",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "a simple command-line application that allows you to securely generate and store passwords for different accounts. It uses MySQL database to store the encrypted passwords and Python to implement the logic and interface.",
+    url: "https://github.com/jebinshaju/password-manager",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My github profile",
+    url: "https://github.com/jebinshaju",
   },
 ];
 
